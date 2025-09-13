@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "color": "Gray",
+    "price": 3500,
+    "discount": false,
+    "img": "../../public/img/laptop.png"
+  },
+  {
+    "id": 2,
+    "name": "İphone 17 Pro",
+    "color": "Black",
+    "price": 1500,
+    "discount": true,
+    "img": "../../public/img/iphone17.png"
+  },
+  {
+    "id": 3,
+    "name": "Televizyon",
+    "color": "Red",
+    "price": 4500,
+    "discount": false,
+    "img": "../../public/img/televizyon.png"
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "color": "Blue",
+    "price": 2500,
+    "discount": true,
+    "img": "../../public/img/mouse.png"
+  },
+  {
+    "id": 5,
+    "name": "Sandalye",
+    "color": "Gray",
+    "price": 6500,
+    "discount": false,
+    "img": "../../public/img/kamera.png"
+  },
+  {
+    "id": 6,
+    "name": "Masa",
+    "color": "Orange",
+    "price": 4500,
+    "discount": true,
+    "img": "../../public/img/masa.png"
+  },
+  {
+    "id": 7,
+    "name": "Klavye",
+    "color": "Purple",
+    "price": 1500,
+    "discount": true,
+    "img": "../../public/img/klavye.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kamera",
+    "color": "yellow",
+    "price": 9500,
+    "discount": false,
+    "img": "../../public/img/kamera.png"
+  }
+]
